@@ -1,0 +1,6 @@
+c:\users\quirico\documents\visual studio 2015\Projects\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Quirico\Documents\Visual Studio 2015\Projects\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+C:\Users\Quirico\Documents\Visual Studio 2015\Projects\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\Quirico\Documents\Visual Studio 2015\Projects\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\Quirico\Documents\Visual Studio 2015\Projects\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Quirico\Documents\Visual Studio 2015\Projects\Lab15\Lab15\obj\Debug\Lab15.pdb
